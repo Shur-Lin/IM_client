@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="contacts">
+        <item>班得瑞</item>
+        <item>贝多芬</item>
+        <item>宝丽金</item>
+        <item>奥特曼</item>
+        <item>安又琪</item>
+        <item>阿黛尔</item>
+        <item>刘德华</item>
+        <item>谭咏麟</item>
+        <item>那英</item>
+        <item>莫文蔚</item>
+        <item>许茹芸</item>
+        <item>水木年华</item>
+        <item>周杰伦</item>
+        <item>林俊杰</item>
+        <item>齐秦</item>
+        <item>李健</item>
+        <item>汪峰</item>
+        <item>金志文</item>
+        <item>筷子兄弟</item>
+        <item>刀郎</item>
+        <item>王菲</item>
+        <item>张学友</item>
+        <item>#1伍佰</item>
+        <item>#0蔡依林</item>
+        <item>~夏先生</item>
+    </string-array>
+
+</resources>
